@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\bin\Debug\net9.0\HomeWork2.exe
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\bin\Debug\net9.0\HomeWork2.deps.json
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\bin\Debug\net9.0\HomeWork2.runtimeconfig.json
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\bin\Debug\net9.0\HomeWork2.dll
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\bin\Debug\net9.0\HomeWork2.pdb
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\obj\Debug\net9.0\HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\obj\Debug\net9.0\HomeWork2.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\obj\Debug\net9.0\HomeWork2.AssemblyInfo.cs
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\obj\Debug\net9.0\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\obj\Debug\net9.0\HomeWork2.dll
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\obj\Debug\net9.0\refint\HomeWork2.dll
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\obj\Debug\net9.0\HomeWork2.pdb
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\obj\Debug\net9.0\HomeWork2.genruntimeconfig.cache
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\obj\Debug\net9.0\ref\HomeWork2.dll
+C:\Users\User\RiderProjects\CSharpEducation\HomeWork2\obj\Debug\net9.0\HomeWork2.sourcelink.json
